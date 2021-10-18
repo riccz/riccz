@@ -1,6 +1,11 @@
-# Languages #
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riccz&show_icons=true&theme=default&hide=stars&count_private=true&include_all_commits=true" />  
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccz&theme=default&langs_count=5&layout=compact&hide=openscad" />
+</a>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riccz&langs_count=5&layout=compact&hide=openscad)
+
 
 ## Python ##
 
@@ -12,3 +17,5 @@
 
 ## Rust ##
 
+
+Stats charts built with <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>
